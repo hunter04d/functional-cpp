@@ -52,3 +52,8 @@ Currently the following examples are implemented:
   with *p<sub>i</sub>* arguments such that *Σ<sup>n</sup><sub>i=1</sub>( p<sub>i</sub> ) = p*.\
   It will make sense when you will see the example.\
   Credit to [here](https://github.com/HowProgrammingWorks/PartialApplication/blob/master/JavaScript/7-curry.js) for inspiration.
+  
+* [pattern matching for std::variant and std::optional](match.cpp)
+ 
+  This one uses naming to make it look like pattern matching is supported on language level 
+
