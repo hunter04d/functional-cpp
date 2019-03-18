@@ -4,7 +4,7 @@
 
 This repository contains my attempt at implementing functional patterns in C++.\
 I attempt to make the code as simple as possible which sometimes means that\
-examples might contain some copies that are can possibly be avoided in some, possibly large amount of code.
+examples might contain some copies that can possibly be avoided in some, possibly large amount of code.
 
 Most of the examples are usable in **constexpr** context.
 
@@ -53,7 +53,7 @@ Currently the following examples are implemented:
   It will make sense when you will see the example.\
   Credit to [here](https://github.com/HowProgrammingWorks/PartialApplication/blob/master/JavaScript/7-curry.js) for inspiration.
   
-* [pattern matching for std::variant and std::optional](match.cpp)
+* [pattern matching for `std::variant` and `std::optional`](match.cpp)
  
   This one uses naming to make it look like pattern matching is supported on language level 
 
